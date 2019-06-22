@@ -1,0 +1,80 @@
+c:\users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csprojResolveAssemblyReference.cache
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Form1.resources
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.Cache
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+C:\Users\serhat\documents\visual studio 2015\Projects\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\mscorlib.dll
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\System.Net.Http.dll
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\System.Net.Http.xml
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\tr\System.Net.Http.resources.dll
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\normidna.nlp
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\normnfc.nlp
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\normnfd.nlp
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\normnfkc.nlp
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\bin\Debug\normnfkd.nlp
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital Günlük.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital_Günlük.Form1.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.Cache
+C:\ser\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+C:\ser\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+C:\ser\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+C:\ser\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csprojResolveAssemblyReference.cache
+C:\ser\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.Cache
+C:\ser\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+C:\ser\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+C:\ser\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Form1.resources
+C:\ser\Dijital Günlük\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+C:\ser\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+C:\ser\Dijital Günlük\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+C:\ser\Dijital Günlük ser\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+C:\ser\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+C:\ser\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+C:\ser\Dijital Günlük ser\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+C:\ser\Dijital Günlük ser\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+C:\ser\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital Günlük.csprojResolveAssemblyReference.cache
+C:\ser\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+C:\ser\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+C:\ser\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital_Günlük.Form1.resources
+C:\ser\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+C:\ser\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\bin\Debug\System.Net.Http.dll
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\bin\Debug\System.Net.Http.xml
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\bin\Debug\tr\System.Net.Http.resources.dll
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital Günlük.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital_Günlük.Form1.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+C:\Users\TOSHIBA S70\Documents\Visual Studio 2012\Projects\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.Cache
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\Dijital Günlük ser\Dijital Günlük\bin\Debug\Dijital Günlük.exe.config
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\Dijital Günlük ser\Dijital Günlük\bin\Debug\Dijital Günlük.exe
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\Dijital Günlük ser\Dijital Günlük\bin\Debug\Dijital Günlük.pdb
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital Günlük.csprojAssemblyReference.cache
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital_Günlük.anaEkran.resources
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital_Günlük.CustomControl1.resources
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital_Günlük.Form1.resources
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital_Günlük.Properties.Resources.resources
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.GenerateResource.cache
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital Günlük.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital Günlük.exe
+C:\Users\TOSHIBAS70\Desktop\proje_Deneme\Dijital Günlük ser\Dijital Günlük\obj\Debug\Dijital Günlük.pdb
